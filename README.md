@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msk940609
 - 👀 I’m interested in scienfic analysis about organic matter to explain environmental variation.
-- 🌱 I’m currently learning mass spectrometry, statisic and molercular ecology 
+- 🌱 I’m currently learning mass spectrometry, statisic and molecular ecology 
 - 💞️ I’m looking to collaborate on environtmental scientist, ecologist, statist or other multidisciplinary researcher.  
 - 📫 How to reach me msk940609@gmail.com
 
